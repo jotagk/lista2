@@ -55,7 +55,7 @@ https://stover-wp21.cdn.telefonica.com/4527/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k0iMNJenxoSGGH21bvq6SQ","kid":"Ewdc75TiTKKbTvVhShoRkg"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/5259/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF: -1, tvg-name="M+ Terror" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TERROR" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", M+ Terror
+#EXTINF: -1, tvg-name="M+ Terror" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TERROR" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Terror
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T0RVhmTj78GBG3zoi+tZeg","kid":"4+CwRxYwSX64H8F/OaUiGA"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4955/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
@@ -115,7 +115,7 @@ https://stover-wp21.cdn.telefonica.com/4502/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t5GoRH0DDXhV+eIxiGy5cw","kid":"0jnq7BHUTcSej3SvDnMwpw"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4603/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF: -1, tvg-name="Hollywood" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Hollywood
+#EXTINF: -1, tvg-name="Canal Hollywood" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Canal Hollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3McD480rn2c3nBFlWWzFmA","kid":"hgKTWAzcQY2ywRkLKLKIiQ"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4780/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
@@ -290,7 +290,7 @@ https://stover-wp21.cdn.telefonica.com/4568/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MM1FrWSjddvAq+cpqvTtCQ","kid":"qIBoG/dfRVKUrTKxF3sdUA"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4570/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF: -1, tvg-name="DAZN F1 4K" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", DAZN F1 4K
+#EXTINF: -1, tvg-name="DAZN F1 4K" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S4Tmo0OENYng7WPU46iCPg","kid":"G3ZhJzetTWeDdvbkbIEEow"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/5079/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
@@ -550,7 +550,7 @@ https://stover-wp21.cdn.telefonica.com/4599/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JGDQZg/l5njyFYJTQRpvNQ","kid":"OBMt+9HrQHONmkdPfg3k4w"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4563/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF: -1, tvg-name="Clan TVE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Clan TVE
+#EXTINF: -1, tvg-name="Clan" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Clan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5v6EAp5uLg4gOM7+G12qhQ","kid":"4sJlQoUsQzOuxo6DhE87sQ"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4611/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
@@ -610,7 +610,7 @@ https://stover-wp21.cdn.telefonica.com/4893/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jz9rZOeq4yMgh3Q7y7t4NQ","kid":"+7j7PUnATLGvt3PhlGG23g"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4985/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF: -1, tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TELMIN" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Telemadrid Int.
+#EXTINF: -1, tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TELMIN" group-title="MOVISTAR" group-logo="https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg", Telemadrid Int
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5/Z8UauklMnu1KCGVgDhXA","kid":"WRrwv4/4Tey+Hi2+wGMHTw"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/5092/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
