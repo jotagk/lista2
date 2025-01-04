@@ -674,3 +674,9 @@ https://stover-wp21.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mJKFsevL1Hhn+HAk8WzMw","kid":"V1a2xRsSQG6X9mHiUBCe+g"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4983/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
+
+#EXTM3U
+#EXTINF:-1,STAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8DWMaA/8RpBAB95GE4jfKA","kid":"ReQWOaC5RT+bJgy50DJjaQ"}],"type":"temporary"}
+https://orangetv.orange.es/lcn?extChId=11001&type=live&bci=tv-2
