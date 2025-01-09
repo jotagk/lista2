@@ -675,3 +675,23 @@ https://stover-wp21.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mJKFsevL1Hhn+HAk8WzMw","kid":"V1a2xRsSQG6X9mHiUBCe+g"}],"type":"temporary"}
 https://stover-wp21.cdn.telefonica.com/4983/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
+
+#EXTINF:-1 tvg-name="M+ Copa del Rey" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MCOPA" group-title="M+ LALIGA TV",M+ Copa del Rey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37ff0f9bde3045c8a3a421cac241ff49:4d3bfff8d009a77ce9ef3a9302baa064
+https://stover-wp21.cdn.telefonica.com/5355/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="M+ LALIGA TV" tvg-logo="https://i.ytimg.com/vi/l9F6mK6xU2M/maxresdefault.jpg",LaLiga TV BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"i7+zwYjCuAOx+CDYEmftqw","kid":"rypleU5XSn+u/ciTe6AHvg"}],"type":"temporary"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://assets.laliga.com/assets/2020/07/01/medium/52ed5c5c0c05ccaa2c4d8d02dbffc385.jpeg" group-title="M+ LALIGA TV",M+ Laliga Orange
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+http://orng-highi.ddns.net:9070/channel/mliga
